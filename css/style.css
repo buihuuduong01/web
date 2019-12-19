@@ -1,0 +1,249 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #f6f5f1;
+}
+#page{
+	width: 1150px;
+	margin: 0px auto;
+
+	
+}
+/*tìm thẻ nav có id là*/
+nav#main-nav{
+	
+}
+#body-page{
+	/*làm xong thì xóa*/
+	min-height: 500px;
+	background-color: #fff; 
+}
+section#left-page{
+	width: 800px;
+	padding: 10px;
+	float: left;
+	font-family: arial;
+/*	background-color: cyan;
+*/
+}
+aside{
+	width: 340px;
+	padding: 10px;
+	float: right;
+/*	background-color: yellow;
+*/}
+.clr{
+	clear: both;
+}
+footer#footer-page{
+	min-height: 100px;
+	background-color: #252525;
+
+}
+/*khoi*/
+.block{
+	width: 100%;
+	-webkit-box-shadow: 0 7px 5px 0 #D4D4D4;
+	box-shadow: 0 7px 5px 0 #D4D4D4;
+	margin-bottom: 20px;
+
+}
+.block header{
+	border-top: 3px solid #08afe3;
+	border-bottom: 1px solid #eee;
+}
+.block header h3{
+	text-transform: uppercase;
+	text-align: center;
+	margin: 5px;
+	font-family: Arial;
+	color: #4e4e4e;
+	font-size: 0.95em;
+}
+.block .content-block{
+	padding: 10px;
+}
+/* thanh menu ngang*/
+#main-nav{
+
+}
+#main-nav ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;/*xóa dấu chấm */
+	background: #82bcea;
+	background: -moz-linear-gradient(left,  #82bcea 0%, #60abf8 44%, #1d5699 100%);
+	background: -webkit-linear-gradient(left,  #82bcea 0%,#60abf8 44%,#1d5699 100%);
+	background: linear-gradient(to right,  #82bcea 0%,#60abf8 44%,#1d5699 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#82bcea', endColorstr='#1d5699',GradientType=1 );
+
+
+	border-bottom: 3px solid #5b5c57;/*đường kẻ dưới*/
+	font-size: 0px;
+}
+#main-nav ul li{
+	display: inline-block; /*hiện ngang*/
+
+	font-size: 1rem;
+}
+#main-nav ul li a{
+	font-family: Arial;
+	text-decoration: none;/*bỏ gạch chân*/
+	padding: 10px;
+	display: block; /*chuyển thành khối*/
+	color: #fff;
+	border-right: 1px solid #fff;
+}
+#main-nav ul li:last-child a{
+	border-right: none;
+}
+#main-nav ul li a:hover, #main-nav ul li.active a{
+	background-color: #222327;
+}
+/* phan noi dung */
+#slide-show img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.rec-post .content-block .hot img, .rec-post ul li img, .sb-post-thumbnail{
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.conten-block ul {
+	
+	list-style: none;
+	padding-left: 8px; 
+}
+.rec-post ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.rec-post ul li{
+/* 	display: inline-block; */
+	width: 50%;
+	float: left;
+
+}
+.rec-post h3{
+	margin: 3px 0px;
+}
+h4{
+	margin-bottom: 0px;
+}
+h3,h4{
+	color: #666;
+}
+.sb-post-meta p{
+	margin-top: 12px;
+}
+.sb-post-meta p,h4,p,h3{
+	font-family: Arial;
+}
+p,span{
+	color: #c2bdc0;
+	font-size: 14px;
+}
+.hot h3,h3{
+	font-size: 15px;
+}
+#text{
+	height:30px;
+	position: relative;
+	left: 50px;
+	margin: 20px 6px 0px 6px;
+}
+#nut{
+	height:25px;
+	position: relative;
+	left:100px;
+	margin: 10px 6px;
+}
+#like{
+	margin: 10px 10px 10px 10px;
+}
+.item2{
+	padding: 10px 10px 10px 10px;
+    font-size: 100%;
+    line-height: 16px;
+    list-style: none;
+    border-bottom: 1px solid #eee;
+    overflow: hidden;
+}
+#footer-page {
+    -moz-box-shadow: 0px 0px 2px #000;
+    -webkit-box-shadow: 0px 0px 2px black;
+    box-shadow: 0px 0px 2px black;
+    position: relative;
+    margin: 0 auto;
+    padding: 0px 0;
+    background-color: #252525;
+    color: #CECECE;
+    font-size: 13px;
+}
+
+.footer-block1, .footer-block2, .footer-block3, .footer-block4 {
+    float: left;
+    width: 23%;
+    padding: 20px 20px 0 0;
+    margin-left: 15px;
+}
+.flickr_badge_image{
+	float: left;
+	width: 29%;
+	margin: 0 10px 20px 0;
+	padding-left: 0px;
+}
+.sb-tabs-wrap{
+	list-style: none;
+	padding-left: 0px;
+}
+@media only screen and (max-width: 480px) {
+/*	#top-page img{
+		width: 100%;
+	}*/
+  #main-nav ul li{
+  	display: block;
+  }
+  #page{
+  	width: 100%;
+  }
+  #main-nav ul li a{
+  	width: 100%;
+  }
+  section#left-page{
+  	width: 100%;
+  }
+  .conten-block .hot{
+  	width: 100%;
+  }
+  .block ul{
+  	width: 100%;
+  }
+  .block ul li{
+  	width: 100%;
+  }
+  #asi{
+  	width: 100%
+  }
+  .conten-block ul li{
+  	height: 70px;
+  }
+  .footer-block1{
+  	width: 100%;
+  }
+  .footer-block2{
+  	width: 100%;
+  }
+  .footer-block3{
+  	width: 100%;
+  }
+  .footer-block4{
+  	width: 100%;
+  }
+}
+@media only screen and (min-width: 480px) {
+  .demo {background: green;}
+}

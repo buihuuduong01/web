@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div id="page">
+		<header id="top-page">
+			<a href="index.html"><img src="image/logo.png"></a>
+		</header>
+		<nav id="main-nav">
+			<ul>
+				<li class="active"><a href="">Home</a></li>
+				<li><a href="">Level 1</a></li>
+				<li><a href="">Page a</a></li>
+				<li><a href="">Page b</a></li>
+				<li><a href="">Page c</a></li>
+				<li><a href="">Sports</a></li>
+				<li><a href="">Weather</a></li>
+			</ul>
+		</nav>
+		<div id="body-page">
+			<section id="left-page">
+				<div id="slide-show">
+					<img src="image/anh-san-pham.jpg" alt="">
+				</div>
+				<!-- bắt đầu khối -->
+				<div class="block rec-post">
+					<header>
+						<h3>Recent posts</h3>
+					</header>
+					<div class="content-block">
+						<div class="hot">
+							<img src="image/anh1.jpg" alt="">
+							<h3>Fusce dapibus tellus ac cursus</h3>
+							<span>by Michelle Malkin On September 05, 2008 0 Comment</span>
+							<p>All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, […]</p>
+							<div class="clr"></div>
+						</div>
+						<ul>
+							<li>
+								<img src="image/5612051366_4019c3012c_z-70x70.jpg">
+								<h3>Donec ullamcorper nulla non metus</h3>
+								<span>September 04, 2008</span>
+							</li>
+
+							<li>
+								<img src="image/5690083285_06f3fcba38_b-70x70.jpg">
+								<h3>Consectetur adipiscing elit</h3>
+								<span>September 03, 2008</span>
+							</li>
+
+							<li>
+								<img src="image/8294763165_ffaf731185_b-70x70.jpg">
+								<h3>Sed posuere consectetur est</h3>
+								<span>March 03, 2008</span>
+							</li>
+							
+							<li>
+								<img src="image/6332385171_8250f8b7c0_b-70x70.jpg">
+								<h3>Fusce dapibus tellus ac commodo aondimentum</h3>
+								<span>March 02, 2008</span>
+							</li>
+						</ul>
+
+						<div class="clr"></div>
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+
+				<!-- bắt đầu khối -->
+				<div class="block rec-post">
+					<header>
+						<h3>Recent posts</h3>
+					</header>
+					<div class="content-block">
+						<div class="hot">
+							<img src="image/anh1.jpg" alt="">
+							<h3>Fusce dapibus tellus ac cursus</h3>
+							<span>by Michelle Malkin On September 05, 2008 0 Comment</span>
+							<p>All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, […]</p>
+							<div class="clr"></div>
+						</div>
+						<ul>
+							<li>
+								<img src="image/5612051366_4019c3012c_z-70x70.jpg">
+								<h3>Donec ullamcorper nulla non metus</h3>
+								<span>September 04, 2008</span>
+							</li>
+							<li>
+								<img src="image/5690083285_06f3fcba38_b-70x70.jpg">
+								<h3>Consectetur adipiscing elit</h3>
+								<span>September 03, 2008</span>
+							</li>
+							<li>
+								<img src="image/8294763165_ffaf731185_b-70x70.jpg">
+								<h3>Sed posuere consectetur est</h3>
+								<span>March 03, 2008</span>
+							</li>
+							<li>
+								<img src="image/6332385171_8250f8b7c0_b-70x70.jpg">
+								<h3>Fusce dapibus tellus ac commodo aondimentum</h3>
+								<span>March 02, 2008</span>
+							</li>
+						</ul>
+
+						<div class="clr"></div>
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+
+
+				<!-- bắt đầu khối -->
+				<div class="block rec-post">
+					<header>
+						<h3>Recent posts</h3>
+					</header>
+					<div class="content-block">
+						<div class="hot">
+							<img src="image/anh1.jpg" alt="">
+							<h3>Fusce dapibus tellus ac cursus</h3>
+							<span>by Michelle Malkin On September 05, 2008 0 Comment</span>
+							<p>All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, […]</p>
+							<div class="clr"></div>
+						</div>
+						<ul>
+							<li>
+								<img src="image/5612051366_4019c3012c_z-70x70.jpg">
+								<h3>Donec ullamcorper nulla non metus</h3>
+								<span>September 04, 2008</span>
+							</li>
+							<li>
+								<img src="image/5690083285_06f3fcba38_b-70x70.jpg">
+								<h3>Consectetur adipiscing elit</h3>
+								<span>September 03, 2008</span>
+							</li>
+							<li>
+								<img src="image/8294763165_ffaf731185_b-70x70.jpg">
+								<h3>Sed posuere consectetur est</h3>
+								<span>March 03, 2008</span>
+							</li>
+							<li>
+								<img src="image/6332385171_8250f8b7c0_b-70x70.jpg">
+								<h3>Fusce dapibus tellus ac commodo aondimentum</h3>
+								<span>March 02, 2008</span>
+							</li>
+						</ul>
+
+						<div class="clr"></div>
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+			</section>
+			<aside id="asi">
+				<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>Category name</h3>
+					</header>
+					<div class="conten-block">
+						
+						<ul class="sb-tabs-wrap">
+							<li>
+								<div class="sb-post-thumbnail">
+									<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/8074153803_e91a56a3d0_c-70x70.jpg"></a>
+								</div>
+								<div class="sb-post-list-title">
+									<h4>Fusce dapibus tellus ac cursus</h4>
+									<div class="sb-post-meta"><p>September 05, 2008</p></div>
+								</div>
+							</li>
+
+
+
+
+							<li>
+								<div class="sb-post-thumbnail">
+									<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5612051366_4019c3012c_z-70x70.jpg"></a>
+								</div>
+								<div class="sb-post-list-title">
+									<h4>Donec ullamcorper nulla non metus</h4>
+									<div class="sb-post-meta"><p>September 04, 2008</p></div>
+								</div>
+							</li>
+
+
+
+
+
+							<li>
+								<div class="sb-post-thumbnail">
+									<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5690083285_06f3fcba38_b-70x70.jpg"></a>
+								</div>
+								<div class="sb-post-list-title">
+									<h4>Consectetur adipiscing elit</h4>
+									<div class="sb-post-meta"><p>September 03, 2008</p></div>
+								</div>
+							</li>
+							<div class="clr"></div>
+						</ul>
+
+
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+				<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>Category name</h3>
+					</header>
+					<div class="conten-block">
+						
+						<ul class="sb-tabs-wrap">
+							<li>
+								<div class="sb-post-thumbnail">
+									<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/8074153803_e91a56a3d0_c-70x70.jpg"></a>
+								</div>
+								<div class="sb-post-list-title">
+									<h4>Fusce dapibus tellus ac cursus</h4>
+									<div class="sb-post-meta"><p>September 05, 2008</p></div>
+								</div>
+							</li>
+
+
+
+
+							<li>
+								<div class="sb-post-thumbnail">
+									<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5612051366_4019c3012c_z-70x70.jpg"></a>
+								</div>
+								<div class="sb-post-list-title">
+									<h4>Donec ullamcorper nulla non metus</h4>
+									<div class="sb-post-meta"><p>September 04, 2008</p></div>
+								</div>
+							</li>
+
+
+
+
+
+							<li>
+								<div class="sb-post-thumbnail">
+									<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5690083285_06f3fcba38_b-70x70.jpg"></a>
+								</div>
+								<div class="sb-post-list-title">
+									<h4>Consectetur adipiscing elit</h4>
+									<div class="sb-post-meta"><p>September 03, 2008</p></div>
+								</div>
+							</li>
+							<div class="clr"></div>
+						</ul>
+
+
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+				<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>News letter subcribe</h3>
+					</header>
+					<div class="conten-block">
+						<input type="text" id="text"><br>
+						<input type="button" id="nut" value="Subcribe">
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+				<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>Facebook fans</h3>
+					</header>
+					<div class="conten-block" style="border: none; overflow: hidden;width: 100%;height: 200px;">
+						<div id="like" style="min-width: 180px;width: 292px;">
+							<div><img style="width: 90%; " src="image/anhface.png"></div>
+						</div>
+						<div>
+							<p style="margin: 10px 10px 10px 10px;">Be the first of your friends to like this</p>
+						</div>
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+				<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>Categories</h3>
+					</header>
+					<div class="conten-block">
+						<ul style="font-family: arial; font-size: 14px; position: relative;margin:0px 0px 0px 0px;">
+							<li class="item2">aciform</li>
+							<li class="item2">Cat A</li>
+							<li class="item2">Cat B</li>
+							<li class="item2">Cat C</li>
+							<li class="item2">sub</li>
+							<li class="item2">Tech</li>
+							<li class="item2">Uncategorized</li>
+						</ul>
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+				<!-- bắt đầu khối -->
+				<div class="block">
+					<header>
+						<h3>Circle us</h3>
+					</header>
+					<div class="conten-block">
+						<div>
+							<p></p>      
+						</div>
+					</div>
+				</div>				
+				<!-- kết thúc khối -->
+
+
+
+
+
+
+
+
+			</aside>
+			<div class="clr"></div>
+		</div>
+		<footer id="footer-page">
+			<div id="footer-blocks" class="container-clearfix">
+				<div class="fb-container clearfix">
+					<div class="footer-block1">
+						<div id="text-3" class="widget_text widget">
+							<h3 class="widget-title">About Us</h3>
+							<div class="textwidget">
+								<p>Donec dui sem, blandit vitae pharetra in, semper at tortor. Cras sodales dui vitae sapien euismod accumsan. Integer id quam ac lorem lobortis ullamcorper eu vel risus. Ut quis feugiat nibh.</p>
+								<p>Suspendisse potenti. Praesent vel metus a orci eleifend pharetra. Donec sollicitudin feugiat nibh, eu iaculis felis consequat et. Donec ac pretium velit.</p>
+							</div>
+						</div>
+					</div>
+					<div class="footer-block2">
+						<div id="tpcrn-popular-posts-widget-3" class="imagmag_themepacific_popular_posts_widget widget">
+							<h3 class="widget-title">Popular Posts </h3>
+							<div class="popular-rec">
+								<ul class="sb-tabs-wrap">
+									<li>
+										<div class="sb-post-thumbnail">
+											<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/8074153803_e91a56a3d0_c-70x70.jpg"></a>
+										</div>
+										<div class="sb-post-list-title">
+											<h4>Fusce dapibus tellus ac cursus</h4>
+											<div class="sb-post-meta"><p>September 05, 2008</p></div>
+										</div>
+										<div class="clr"></div>
+									</li>
+
+
+
+
+									<li>
+										<div class="sb-post-thumbnail">
+											<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5612051366_4019c3012c_z-70x70.jpg"></a>
+										</div>
+										<div class="sb-post-list-title">
+											<h4>Donec ullamcorper nulla non metus</h4>
+											<div class="sb-post-meta"><p>September 04, 2008</p></div>
+										</div>
+										<div class="clr"></div>
+									</li>
+
+
+
+
+
+									<li>
+										<div class="sb-post-thumbnail">
+											<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5690083285_06f3fcba38_b-70x70.jpg"></a>
+										</div>
+										<div class="sb-post-list-title">
+											<h4>Consectetur adipiscing elit</h4>
+											<div class="sb-post-meta"><p>September 03, 2008</p></div>
+										</div>
+										<div class="clr"></div>
+									</li>
+									<div class="clr"></div>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="footer-block3">
+						<div id="tpcrn-popular-posts-widget-3" class="imagmag_themepacific_popular_posts_widget widget">
+							<h3 class="widget-title">Category Name </h3>
+							<div class="popular-rec">
+								<ul class="sb-tabs-wrap">
+									<li>
+										<div class="sb-post-thumbnail">
+											<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/8074153803_e91a56a3d0_c-70x70.jpg"></a>
+										</div>
+										<div class="sb-post-list-title">
+											<h4>Fusce dapibus tellus ac cursus</h4>
+											<div class="sb-post-meta"><p>September 05, 2008</p></div>
+										</div>
+										<div class="clr"></div>
+									</li>
+
+
+
+
+									<li>
+										<div class="sb-post-thumbnail">
+											<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5612051366_4019c3012c_z-70x70.jpg"></a>
+										</div>
+										<div class="sb-post-list-title">
+											<h4>Donec ullamcorper nulla non metus</h4>
+											<div class="sb-post-meta"><p>September 04, 2008</p></div>
+										</div>
+										<div class="clr"></div>
+									</li>
+
+
+
+
+
+									<li>
+										<div class="sb-post-thumbnail">
+											<a href=""><img width="70" height="70" sizes="(max-width: 70px) 100vw, 70px" src="image/5690083285_06f3fcba38_b-70x70.jpg"></a>
+										</div>
+										<div class="sb-post-list-title">
+											<h4>Consectetur adipiscing elit</h4>
+											<div class="sb-post-meta"><p>September 03, 2008</p></div>
+										</div>
+										<div class="clr"></div>
+									</li>
+									<div class="clr"></div>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="footer-block4">
+						<div id="tpcrn-flickr-widget-2" class="tpcrn-flickr-widget widget">
+							<h3 class="widget-title">Flickr </h3>
+							<div class="tpcrn-flickr clearfix">
+								<div class="flickr_badge_image" id="flickr_badge_image1">
+									<a href=""><img src="image/16966150755_049fc0302e_s.jpg" height="75" width="75"></a>
+								</div>
+
+								<div class="flickr_badge_image" id="flickr_badge_image2">
+									<a href=""><img src="image/16343791664_bace65c759_s.jpg" height="75" width="75"></a>
+								</div>
+
+								<div class="flickr_badge_image" id="flickr_badge_image3">
+									<a href=""><img src="image/16966154575_2cf74dfce5_s.jpg" height="75" width="75"></a>
+								</div>
+
+								<div class="flickr_badge_image" id="flickr_badge_image4">
+									<a href=""><img src="image/16346058063_8e04dbb30a_s.jpg" height="75" width="75"></a>
+								</div>
+
+								<div class="flickr_badge_image" id="flickr_badge_image5">
+									<a href=""><img src="image/16758770477_b90e5e05a3_s.jpg" height="75" width="75"></a>
+								</div>
+
+								<div class="flickr_badge_image" id="flickr_badge_image6">
+									<a href=""><img src="image/16964822462_c6b6d4d231_s.jpg" height="75" width="75"></a>
+								</div>
+
+								<!-- chua them -->
+								<span></span>
+								<!-- end -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clr"></div>
+		</footer>
+		
+	</div>
+
+</body>
+</html>
